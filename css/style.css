@@ -32,10 +32,11 @@ transition: .4s;
 }
 .contactBtn{
     padding: 20px 40px;
-    background: #6A4DF4;
+    background: rgb(83, 244, 77);
     color: #fff;
     border-radius: 10px;
 }
+
 /* Header Part End */
 
 /* Header Part Start */
